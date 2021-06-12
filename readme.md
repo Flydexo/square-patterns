@@ -5,8 +5,8 @@ create a program to automate this task and generated square patterns as in the m
 
 ## draw.js
 
-The draw.js file is quite simple, it's objective is to draw the pattern with the letters we give him in config.js:28
+The draw.js file is quite simple, it's objective is to draw the pattern with the letters we give him in [config.js:28](https://github.com/Flydexo/square-patterns/blob/master/config.js)
 
 ## guess.js
 
-The guess.js file is a little bit more complex than draw.js because it is to guess the letters that were used to draw the square pattern in cofig.js:19
+The guess.js file is a little bit more complex than draw.js because it is to guess the letters that were used to draw the square pattern in [config.js:19](https://github.com/Flydexo/square-patterns/blob/master/config.js)
