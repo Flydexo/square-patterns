@@ -34,4 +34,4 @@ if(POS[POSITIONS.TOP.MIDDLE] === 1 && guessed[0] == "not guessed"){
 
 }
 guessed[0] = "result: "
-console.log(guessed);
+console.log(guessed.join(''));

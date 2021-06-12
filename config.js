@@ -25,7 +25,7 @@ module.exports.POS = [
 // 0 = white
 // 1 = black
 
-module.exports.RULE = "ABCEBA";
+module.exports.RULE = "ABCE";
 
 // A = 000
 //     010
@@ -40,3 +40,5 @@ module.exports.RULE = "ABCEBA";
 //     000
 
 // E = invert 0 and 1
+
+module.exports.STEPS = this.RULE.split("").length;
