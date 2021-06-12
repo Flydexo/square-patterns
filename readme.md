@@ -9,4 +9,4 @@ The draw.js file is quite simple, it's objective is to draw the pattern with the
 
 ## guess.js
 
-The guess.js file is a little bit more complex than draw.js because it is to guess the letters that were used to draw the square pattern in [config.js:19](https://github.com/Flydexo/square-patterns/blob/master/config.js)
+The guess.js file is a little bit more complex than draw.js because it is to guess the letters the more optimized to draw the square pattern in [config.js:19](https://github.com/Flydexo/square-patterns/blob/master/config.js)

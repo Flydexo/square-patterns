@@ -17,15 +17,15 @@ module.exports.POSITIONS = {
 };
 
 module.exports.POS = [
-    0,0,0,
-    0,0,0,
-    0,0,0
+    0,0,1,
+    0,1,0,
+    1,0,0,
 ];
 
 // 0 = white
 // 1 = black
 
-module.exports.RULE = "ABE";
+module.exports.RULE = "ABCEBA";
 
 // A = 000
 //     010
